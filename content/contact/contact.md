@@ -25,8 +25,8 @@ content:
     country: China
     country_code: CHINA
   coordinates:
-    latitude: '22.59772'
-    longitude: '114.00058'
+    latitude: '22.59739'
+    longitude: '114.00028'
   directions: Room 310, Business School
   office_hours:
     - 'Monday 10:00 to 13:00'
