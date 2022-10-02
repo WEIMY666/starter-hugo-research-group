@@ -15,19 +15,19 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: yangll@sustech.edu.cn
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Tao yuan
+    city: Shenzhen
+    region: Guangdong
+    postcode: '518000'
+    country: China
+    country_code: CHINA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '21.02016'
+    longitude: '112.90953'
+  directions: Room 310, Business School
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
